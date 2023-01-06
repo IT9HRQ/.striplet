@@ -5,7 +5,7 @@
     "start": "forever start -s -c striplet-server ."
   },
   "dependencies": {
-    "a": "^2.1.2",
+    "a": "^3.0.1",
     "browserify": "^16.5.1",
     "forever": "^2.0.0",
     "http-server": "^0.12.1",
